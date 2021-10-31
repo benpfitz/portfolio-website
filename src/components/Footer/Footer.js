@@ -21,10 +21,10 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Copyright © 2021 Benjamin Fitzgerald. All Rights Reserved.</Slogan>
         </CompanyContainer>
-        <SocialIcons href="https://github.com">
+        <SocialIcons href="https://github.com/benpfitz">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://linkedin.com">
+        <SocialIcons href="https://www.linkedin.com/in/benjamin-fitzgerald-97b9621bb/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
       </SocialContainer>
